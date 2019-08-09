@@ -3,3 +3,6 @@ I need to master this so I can be a good team member. GitPong allows for collabo
 
 **Another cool thing I just learned is Markdown!**  
 Quote of the day: "All about commitment"
+
+## Git Pong can be used by more than 2 people
+It's a way to communicate and collaborate. 
